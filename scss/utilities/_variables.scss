@@ -1,7 +1,7 @@
 // *** Project Variables ***
 // *************************
 
-// color variables 
+// primary color variables 
 $color-primary: #58e1c1;
 $color-secondary: #777;
 $color-links: #51ddfc;
@@ -12,6 +12,15 @@ $color-info: #927bc1;
 $color-success: #63cc82;
 $color-warning: #fd7856;
 $color-image-border: #ccc;
+
+// additional color variable for grid
+$color-grid-1: #deb2ee;
+$color-grid-2: #7ee6fd;
+$color-grid-3: #88d9a0;
+$color-grid-4: #4da2bb;
+$color-grid-5: #ec9fa3;
+$color-grid-6: #fd9f85;
+$color-grid-7: #80e8d1;
 
 // typography variables
 $font-stack-primary: 'Lato', sans-serif;
